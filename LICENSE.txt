@@ -1,0 +1,3 @@
+Java Platform, Enterprise Edition (Java EE) is the standard in community-driven enterprise software. Java EE is developed using the Java Community Process, with contributions from industry experts, commercial and open source organizations, Java User Groups, and countless individuals. Each release integrates new features that align with industry needs, improves application portability, and increases developer productivity.
+
+Today, Java EE offers a rich enterprise software platform and with over 20 compliant Java EE implementations to choose from.
